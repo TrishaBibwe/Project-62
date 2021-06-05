@@ -1,0 +1,46 @@
+body {
+    text-align: center; 
+    background-image:lavender ;
+    text-decoration-color: white;
+}
+
+#one, #two, #three, #four, #five, #six , #seven, #eight{
+    height : 300px;
+    width: 300px;
+    margin: 15px;
+}
+
+.gif {
+    width: 600px;
+}
+
+#myCarousel img{ 
+    width: 50px; 
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px; 
+    color : white;
+    }
+    
+h1{
+    border-width: 3px;
+    border: solid;
+    border-color: black;
+    
+}
+h2{
+    border-width: 3px;
+    border: solid;
+    border-color: black;
+    
+}
+p{
+    color: black;
+    font-size: 24px;
+    text-align:center;
+    
+}
+    
